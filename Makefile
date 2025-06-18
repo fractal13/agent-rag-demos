@@ -33,3 +33,6 @@ code-agent-rag-specific-demo:
 
 code-agent-rag-knowledge-base-demo:
 	. $(VENV)/bin/activate; src/code_agent_rag_knowledge_base_demo.py
+
+code-agent-rag-kb-specific-demo:
+	. $(VENV)/bin/activate; src/code_agent_rag_kb_specific_demo.py
